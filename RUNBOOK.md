@@ -2,8 +2,6 @@
 
 **Story:** Kestrel Systems' finance manager Daniel Chen (`dchen`) falls for a payroll phish. The attacker signs in with his password, hides a mail-forwarding rule, runs a macro payload, moves to the file and SQL servers, creates a backdoor account and sends about 900 MB of finance data out. At the same time, someone password-sprays the single sign-on service and gets into Sarah Lee's (`slee`) account. Two harmless look-alikes go off too: an IT admin's encoded PowerShell script, and the approved vulnerability scanner.
 
-**Run the demo from the ES search head:** `https://es.singaporeairpoc.splunkcloud.com`
-
 ---
 
 ## Before the session
