@@ -1,0 +1,5 @@
+domain,threat_category,description
+kestrel-hr-notices.example,phishing_sender,Lookalike Kestrel HR domain registered 2 days ago; sends credential-phishing email
+kestrel-sso-verify.example,credential_harvesting,Fake Kestrel single sign-on page that collects passwords
+cdn-update-check.example,malware_c2,Payload staging and command-and-control server
+mailbox-relay.example,exfiltration,Free mail relay used to receive forwarded mail

@@ -1,0 +1,13 @@
+[]
+access = read : [ * ], write : [ admin, sc_admin, ess_admin ]
+export = system
+
+[savedsearches]
+owner = nobody
+export = system
+
+[lookups]
+export = system
+
+[transforms]
+export = system
